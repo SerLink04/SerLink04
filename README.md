@@ -1,5 +1,5 @@
 ### Hola @everyone 👋, me llamo Sergio aunque soy más conocido como SerLink04
-#### 🔥 My community: https://discord.gg/barras
+#### 🔥 My community: https://discord.gg/comunidad
 ![https://discord.gg/barras](https://cdn.discordapp.com/attachments/835589638261178451/855481504939638864/serlink04.JPG)
 
 Llevo más de 2 años en la **programación**, me gusta mucho todo lo relacionado a hacer interfaces y desarrollo web, he hecho muchos proyectos aunque solo algunos los he hecho públicos , me gusta también ver 🖤 anime y la calistenia 🏋️‍♂️.
