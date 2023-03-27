@@ -7,7 +7,7 @@ Llevo más de 2 años en la **programación**, me gusta mucho todo lo relacionad
 🏹 Habilidades (Skills): PYTHON / JAVA / JAVASCRIPT / C++ / MySQL / SQLite3 / HTML / CSS3 / ANGULAR / FLASK / DJANGO ...
 
 - 🔭 I’m currently working on new projects 
-- 🌱 I’m currently studying software engineer
+- 🌱 I’m currently studying computer engineer
 - ⚫ favorite language -> 🐍 Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SerLink04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/serlink04/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Link04Ser)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/SerLink04GrieferDoxing)  
