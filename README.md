@@ -1,13 +1,13 @@
 ### Hola @everyone 👋, me llamo Sergio aunque soy más conocido como SerLink04
-#### 🔥 My community: https://discord.gg/linksquad
-![https://discord.gg/linksquad](https://cdn.discordapp.com/avatars/996109526052904971/a_4b84896035ede2984f5295436bb1faca.gif?size=4096)
+#### 🔥 My community: https://discord.gg/comunidad
+![https://discord.gg/comunidad](https://cdn.discordapp.com/avatars/996109526052904971/a_4b84896035ede2984f5295436bb1faca.gif?size=4096)
 
 Llevo más de 2 años en la **programación**, me gusta mucho todo lo relacionado a hacer interfaces y desarrollo web, he hecho muchos proyectos aunque solo algunos los he hecho públicos , me gusta también ver 🖤 anime y la calistenia 🏋️‍♂️.
 
-🏹 Habilidades (Skills): PYTHON / JAVA / JAVASCRIPT
+🏹 Habilidades (Skills): PYTHON / JAVA / JAVASCRIPT / C++ / MySQL / SQLite3 / HTML / CSS3 / ANGULAR / FLASK / DJANGO ...
 
 - 🔭 I’m currently working on new projects 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently studying software engineer
 - ⚫ favorite language -> 🐍 Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SerLink04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/serlink04/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Link04Ser)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/SerLink04GrieferDoxing)  
