@@ -2,7 +2,7 @@
 #### 🔥 My community: https://discord.gg/programadores
 ![https://discord.gg/programadores](https://cdn.discordapp.com/avatars/996109526052904971/a_4b84896035ede2984f5295436bb1faca.gif?size=4096)
 
-Llevo más de 2 años en la **programación**, me gusta mucho todo lo relacionado a hacer interfaces y desarrollo web, he hecho muchos proyectos aunque solo algunos los he hecho públicos , me gusta también ver 🖤 anime y la calistenia 🏋️‍♂️.
+Llevo más de 3 años en la **programación**, me gusta mucho todo lo relacionado a hacer interfaces y desarrollo web, he hecho muchos proyectos aunque solo algunos los he hecho públicos , me gusta también ver 🖤 anime y la calistenia 🏋️‍♂️.
 
 🏹 Habilidades (Skills): PYTHON / JAVA / JAVASCRIPT / C++ / MySQL / SQLite3 / HTML / CSS3 / ANGULAR / FLASK / DJANGO ...
 
