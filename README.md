@@ -4,7 +4,7 @@
 
 Llevo más de 3 años en la **programación**, me gusta mucho todo lo relacionado a hacer interfaces, desarrollo web y de aplicaciones para escritorio y dispositivos moviles, además he hecho una gran cantidad de proyectos en lo que llevo en la programación (de hecho ahora mismo me encuentro desarrollando nuevos proyectos), algunos de mis pasa tiempos favoritos son ver 🖤 anime y la calistenia 🏋️‍♂️, llevo más de 3 años viendo anime y 2 con la calistenia.
 
-🏹 Habilidades (Skills): PYTHON / JAVA / JAVASCRIPT / C++ / MySQL / SQLite3 / HTML / CSS3 / ANGULAR / FLASK / DJANGO ...
+🏹 Habilidades (Skills): PYTHON / JAVA / JAVASCRIPT / C++ / MySQL / SQLite3 / HTML5 / CSS3 / ANGULAR / FLASK / DJANGO ...
 
 - 🔭 I’m currently working on new projects 
 - 🌱 I’m currently studying computer engineer
